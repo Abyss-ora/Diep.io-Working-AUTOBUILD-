@@ -1,2 +1,2 @@
 # Diep.io-Working-AUTOBUILD-
-After installing this script, Greasy Fork can suggest the user try another script of your choosing.
+This is a work in progress! You can change the scripts to what you want. Also try my XandY mod! Try to take over the diep.io!
